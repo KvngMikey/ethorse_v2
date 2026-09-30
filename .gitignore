@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+/build
+server/config/.config.env
+server/data/invoice/
